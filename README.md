@@ -1,2 +1,4 @@
-ONLY REPO FOR CM7 PORT, USE LOCAL MANIFEST HERE: 
-*** LINK CURRENTLY NOT AVALIABLE ***
+Use Local manifest.xml to download only what you need
+For default options (Reccommended)
+Use default.xml
+==============================
