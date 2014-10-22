@@ -19,6 +19,7 @@
 #
 # In particular, you can add lunch options with the add_lunch_combo
 # function: add_lunch_combo generic-eng
+# Remove "#" if required
 
 #add_lunch_combo generic_hwy2100100-userdebug
 add_lunch_combo full_hwy2100100-eng
